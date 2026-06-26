@@ -1,4 +1,3 @@
-const prompt = require("prompt-sync")();
 let Number01 = Number(prompt("Enter The Number One :"));
 let Number02 = Number(prompt("Enter The Number Two:"));
 let Number03 = Number(prompt("Enter The Number Three:"));
