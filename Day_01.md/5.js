@@ -1,7 +1,7 @@
-let age =20
-if (age>=18){
-    console.log("Eligible to vote");}
+let Age =20
+if (Age>=18){
+    console.log("Eligible To Vote");}
 else{
-    console.log("not eligible to vote");
+    console.log("Not Eligible To Vote");
 
     }

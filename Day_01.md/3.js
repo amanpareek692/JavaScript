@@ -1,4 +1,4 @@
-let variable_marks =80
-variable_marks +=5
-variable_marks -=10
-console.log(variable_marks);
+let Variable_Marks =80
+Variable_Marks +=5
+Variable_Marks -=10
+console.log(Variable_Marks);
